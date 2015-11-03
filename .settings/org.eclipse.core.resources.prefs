@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//fetchData/items.py=utf-8
+encoding//fetchData/pipelines.py=utf-8
+encoding//fetchData/settings.py=utf-8
+encoding//fetchData/spiders/ConfigFileUtil.py=utf8
+encoding//fetchData/spiders/DoubiSpider.py=utf8
+encoding//fetchData/spiders/DownUtil.py=utf8
+encoding//fetchData/spiders/MongoDbUtil.py=utf8
